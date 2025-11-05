@@ -15,10 +15,10 @@
 This database contains the data of a video rental store: customer information, details about the movies, and the companies. It also records who has rented which movie.
 
 To run this project locally:
-- clone the repository and enter the folder <br>
+- clone the repository and enter the folder: <br>
 `git clone (https link)` <br>
 `cd (repository name)`
-- download MySQL at the following link <br>
-[Download link](https://dev.mysql.com/downloads/mysql/) (choose `mysql-installer-web-community`)
+- download MySQL at the following link: <br>
+[Download](https://dev.mysql.com/downloads/mysql/) (choose `mysql-installer-web-community`)
 - import the file `video.sql` and execute it by pressing on the bolt icon: this will create the database
 - import all the other `.sql` files and execute them to see the results of each query
