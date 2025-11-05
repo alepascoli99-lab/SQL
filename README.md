@@ -19,6 +19,6 @@ To run this project locally:
 `git clone (https link)` <br>
 `cd (repository name)`
 - download MySQL at the following link: <br>
-[Download](https://dev.mysql.com/downloads/mysql/) (choose `mysql-installer-web-community`)
+[download](https://dev.mysql.com/downloads/mysql/) (choose `mysql-installer-web-community`)
 - import the file `video.sql` and execute it by pressing on the bolt icon: this will create the database
 - import all the other `.sql` files and execute them to see the results of each query
