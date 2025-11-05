@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Ignore Python virtual environment
+.environment/
+environment/
+.ipynb_checkpoints/
