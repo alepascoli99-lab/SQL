@@ -10,6 +10,7 @@
 - ***DataSelection.sql***: contains basic data selection queries [`SELECT`, `WHERE`, `AND`, `OR`, `ORDER BY`, `COUNT`, `AVG`, `SUM`, `HAVING`, `GROUP BY`]<br>
 - ***AdditionalFeatures.sql***: contains more advanced selection queries and joining tables [`INNER JOIN`, `OUTER JOIN`, `SELF JOIN`]<br>
 - ***DataEditing&Management.sql***: contains database editing and management queries [`INSERT`, `UPDATE`, `DELETE`, `CREATE/DROP TABLE`, `CREATE/DROP FIELD`, `CONSTRAINT` (`UNIQUE`, `PRIMARY KEY`, `FOREIGN KEY`)]
+- ***SQL_Notes.pdf***: contains an overview I compiled of the SQL statements I learned, including their syntax and key features.
 
 **Database description**:
 This database contains the data of a video rental store: customer information, details about the movies, and the companies. It also records who has rented which movie.
